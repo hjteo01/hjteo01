@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 👩🏻‍💻 Analytics Portfolio
 [![Hui Jie Analytics Portfolio](https://img.shields.io/badge/Hui%20Jie-Analytics%20Portfolio-4479A1?style=for-the-badge)](https://github.com/hjteo01/Analytics-Portfolio)
 
 <!--
