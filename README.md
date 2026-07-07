@@ -1,12 +1,10 @@
 ### Hi, I'm Hui Jie 👋
 
-👩🏻‍💻 As an analyst, I'm driven to go deep across the full data lifecycle from ETL to dashboard development, machine learning, NLP, and time-series forecasting, turning complex data into clear, actionable recommendations for business teams.
+👩🏻‍💻 As an analyst, I'm driven to go deep across the full data lifecycle from ETL to dashboard development, machine learning, turning complex data into clear, actionable recommendations for business teams.
 
 🔎 Interested in **Data Analytics & AI**
 
-⚡ A hungry and hardworking person who's always looking to solve manual work through **efficiency and automation**.
-
-💡 **"Do more with less."**
+⚡ I am a hungry and hardworking person who's always constantly improving myself. 
 
 ### 🛠️ Skills & Tech Stack
 
@@ -43,4 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+👩🏻‍💻 As an analyst, I'm driven to go deep across the full data lifecycle from ETL to dashboard development, machine learning, NLP, and time-series forecasting, turning complex data into clear, actionable recommendations for business teams.
+
+⚡ A hungry and hardworking person who's always looking to solve manual work through **efficiency and automation**.
+
+💡 **"Do more with less."**
 -->
